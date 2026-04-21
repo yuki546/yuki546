@@ -35,8 +35,6 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Portfolio](https://github.com/yuki546/test-portfolio) | 自作ポートフォリオサイト | Next.js / TypeScript / Tailwind CSS |
-| [cesium-map-viewer](https://github.com/yuki546/cesium-map-viewer) | CesiumJS を使った 3D 地図ビューワー | Next.js / CesiumJS / Resium |
-| [TIL](https://github.com/yuki546/TIL) | Today I Learned — 日々の学習メモ | Markdown |
 
 ---
 
