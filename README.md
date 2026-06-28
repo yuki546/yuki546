@@ -29,14 +29,6 @@
 
 ---
 
-## 📦 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Portfolio](https://github.com/yuki546/test-portfolio) | 自作ポートフォリオサイト | Next.js / TypeScript / Tailwind CSS |
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki546&show_icons=true&theme=tokyonight&hide_border=true)
