@@ -5,7 +5,6 @@
 - 💼 マークアップエンジニア → **フロントエンドエンジニア** へ転向目標
 - 🌱 現在学習中: **React / Next.js / TypeScript / Tailwind CSS**
 - 🔭 長期目標: Go を使ったバックエンド開発にも挑戦したい
-- 📝 学んだことを [TIL](https://github.com/yokoyamayuki/til) リポジトリに記録中
 
 ---
 
