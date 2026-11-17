@@ -1,37 +1,9 @@
-# Hi there 👋 I'm Yuki
+<div align="center">
+  <img alt="profile details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuki546&theme=github_dark" />
+</div>
 
-## 🚀 About
-
-- 💼 マークアップエンジニア → **フロントエンドエンジニア** へ転向目標
-- 🌱 現在学習中: **React / Next.js / TypeScript / Tailwind CSS**
-- 🔭 長期目標: Go を使ったバックエンド開発にも挑戦したい
-
----
-
-## 🛠️ Skills
-
-**得意なこと**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-**学習中**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuki546&theme=radical)
-
----
-
-💡 **Happy Hacking ;)**
+<div align="center">
+  <img alt="top languages by repository" width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuki546&theme=github_dark&exclude=html,css,scss" />
+  <img alt="top languages by commit" width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki546&theme=github_dark&exclude=html,css,scss" />
+  <img alt="github stats" width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuki546&theme=github_dark" />
+</div>
